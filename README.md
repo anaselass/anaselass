@@ -50,16 +50,22 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-el-assri-852920279)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anas.elassri.01@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/anas-el-assri-852920279" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:anas.elassri.01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio-five-alpha-75.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anaselass&style=for-the-badge&color=blue" alt="Profile Views" />
